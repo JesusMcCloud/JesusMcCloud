@@ -11,4 +11,8 @@ val bernd = developer {
 }
 ```
 
+**Since Summer 2021, all my development work on GitHub.com is carried out for [A-SIT Plus GmbH](https://github.com/a-sit-plus).
+This includes contributions to third-party projects. Credits A-SIT Plus for supporting OSS development!**
+
+
 > Thou shalt eat no wood.
